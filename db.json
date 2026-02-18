@@ -1,0 +1,95 @@
+{
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Work",
+      "description": "Tasks related to job and projects",
+      "icon": "briefcase",
+      "color": "blue"
+    },
+    {
+      "id": "c2",
+      "title": "Personal",
+      "description": "Personal life tasks",
+      "icon": "user",
+      "color": "green"
+    },
+    {
+      "id": "c3",
+      "title": "Study",
+      "description": "University and learning tasks",
+      "icon": "book",
+      "color": "purple"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t4",
+      "title": "Finish React homework",
+      "description": "Complete routing and modal implementation",
+      "isUrgent": true,
+      "isDone": false,
+      "dueDate": "2026-02-20",
+      "categoryId": "c3"
+    },
+    {
+      "id": "t5",
+      "title": "Prepare presentation slides",
+      "description": "Create slides for final project demo",
+      "isUrgent": false,
+      "isDone": false,
+      "dueDate": "2026-02-21",
+      "categoryId": "c1"
+    },
+    {
+      "id": "t6",
+      "title": "Buy groceries",
+      "description": "Milk, eggs, vegetables, rice",
+      "isUrgent": false,
+      "isDone": true,
+      "dueDate": "2026-02-18",
+      "categoryId": "c2"
+    },
+    {
+      "id": "t7",
+      "title": "Fix server bug",
+      "description": "Debug DELETE request issue",
+      "isUrgent": true,
+      "isDone": false,
+      "dueDate": "2026-02-22",
+      "categoryId": "c1"
+    },
+    {
+      "id": "1771409391956",
+      "title": "test1",
+      "isUrgent": "false",
+      "description": "weferf",
+      "dueDate": "2026-02-19",
+      "categoryId": ""
+    },
+    {
+      "id": "1771409827279",
+      "title": "wewew",
+      "isUrgent": false,
+      "description": "eweew",
+      "dueDate": "",
+      "categoryId": ""
+    },
+    {
+      "id": "1771410061292",
+      "title": "errfer",
+      "isUrgent": false,
+      "description": "ergtyhtyh",
+      "dueDate": "",
+      "categoryId": ""
+    },
+    {
+      "id": "1771410257528",
+      "title": "errfer",
+      "isUrgent": false,
+      "description": "ergtyhtyh",
+      "dueDate": "",
+      "categoryId": "c3"
+    }
+  ]
+}
