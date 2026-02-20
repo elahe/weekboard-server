@@ -24,71 +24,138 @@
   ],
   "tasks": [
     {
+      "id": "t1",
+      "title": "Review JavaScript fundamentals",
+      "description": "Go over closures and async/await",
+      "isUrgent": false,
+      "isDone": true,
+      "dueDate": "2026-02-16",
+      "categoryId": "c3"
+    },
+    {
+      "id": "t2",
+      "title": "Buy groceries",
+      "description": "Milk, eggs, vegetables, rice",
+      "isUrgent": true,
+      "isDone": true,
+      "dueDate": "2026-02-16",
+      "categoryId": "c2"
+    },
+    {
+      "id": "t3",
+      "title": "Fix login validation bug",
+      "description": "Handle empty input edge cases",
+      "isUrgent": true,
+      "isDone": false,
+      "dueDate": "2026-02-17",
+      "categoryId": "c1"
+    },
+    {
       "id": "t4",
+      "title": "Gym session",
+      "description": "30 minutes cardio + stretching",
+      "isUrgent": false,
+      "isDone": false,
+      "dueDate": "2026-02-17",
+      "categoryId": "c2"
+    },
+    {
+      "id": "t5",
       "title": "Finish React homework",
       "description": "Complete routing and modal implementation",
       "isUrgent": true,
+      "isDone": false,
+      "dueDate": "2026-02-18",
+      "categoryId": "c3"
+    },
+    {
+      "id": "t6",
+      "title": "Prepare presentation slides",
+      "description": "Create slides for final project demo",
+      "isUrgent": false,
+      "isDone": true,
+      "dueDate": "2026-02-18",
+      "categoryId": "c1"
+    },
+    {
+      "id": "t7",
+      "title": "Call dentist",
+      "description": "Schedule annual checkup appointment",
+      "isUrgent": false,
+      "isDone": false,
+      "dueDate": "2026-02-19",
+      "categoryId": "c2"
+    },
+    {
+      "id": "t8",
+      "title": "Code review",
+      "description": "Review teammate's pull request",
+      "isUrgent": false,
+      "isDone": false,
+      "dueDate": "2026-02-19",
+      "categoryId": "c1"
+    },
+    {
+      "id": "t9",
+      "title": "Practice coding challenges",
+      "description": "Solve 2 JavaScript problems",
+      "isUrgent": false,
       "isDone": false,
       "dueDate": "2026-02-20",
       "categoryId": "c3"
     },
     {
-      "id": "t5",
-      "title": "Prepare presentation slides",
-      "description": "Create slides for final project demo",
+      "id": "t10",
+      "title": "Clean apartment",
+      "description": "Vacuum and organize desk area",
+      "isUrgent": true,
+      "isDone": false,
+      "dueDate": "2026-02-20",
+      "categoryId": "c2"
+    },
+    {
+      "id": "t11",
+      "title": "Team meeting",
+      "description": "Discuss project progress and blockers",
       "isUrgent": false,
       "isDone": false,
       "dueDate": "2026-02-21",
       "categoryId": "c1"
     },
     {
-      "id": "t6",
-      "title": "Buy groceries",
-      "description": "Milk, eggs, vegetables, rice",
+      "id": "t12",
+      "title": "Study database indexing",
+      "description": "Read chapter and take notes",
       "isUrgent": false,
-      "isDone": true,
-      "dueDate": "2026-02-18",
+      "isDone": false,
+      "dueDate": "2026-02-21",
+      "categoryId": "c3"
+    },
+    {
+      "id": "t13",
+      "title": "Meal prep for next week",
+      "description": "Cook rice, grilled chicken, and roasted vegetables",
+      "isUrgent": false,
+      "isDone": false,
+      "dueDate": "2026-02-22",
       "categoryId": "c2"
     },
     {
-      "id": "t7",
-      "title": "Fix server bug",
-      "description": "Debug DELETE request issue",
+      "id": "t14",
+      "title": "Fix DELETE API bug",
+      "description": "Debug server issue and test endpoint",
       "isUrgent": true,
       "isDone": false,
       "dueDate": "2026-02-22",
       "categoryId": "c1"
     },
     {
-      "id": "1771409391956",
-      "title": "test1",
-      "isUrgent": "false",
-      "description": "weferf",
-      "dueDate": "2026-02-19",
-      "categoryId": ""
-    },
-    {
-      "id": "1771409827279",
-      "title": "wewew",
-      "isUrgent": false,
-      "description": "eweew",
-      "dueDate": "",
-      "categoryId": ""
-    },
-    {
-      "id": "1771410061292",
-      "title": "errfer",
-      "isUrgent": false,
-      "description": "ergtyhtyh",
-      "dueDate": "",
-      "categoryId": ""
-    },
-    {
-      "id": "1771410257528",
-      "title": "errfer",
-      "isUrgent": false,
-      "description": "ergtyhtyh",
-      "dueDate": "",
+      "id": "t15",
+      "title": "Revise for upcoming quiz",
+      "description": "Review React hooks and lifecycle",
+      "isUrgent": true,
+      "isDone": false,
+      "dueDate": "2026-02-22",
       "categoryId": "c3"
     }
   ]
